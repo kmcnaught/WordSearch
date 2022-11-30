@@ -1,0 +1,2 @@
+jellyfish==0.9.0
+sympound==0.6.0
